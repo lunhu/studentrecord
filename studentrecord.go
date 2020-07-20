@@ -1,10 +1,11 @@
-package main 
+package record 
 
 import (
 	"fmt"
 )
 
-func main() {
+func Say() {
 	fmt.Println("hello, world")
-	
+
 }
+
